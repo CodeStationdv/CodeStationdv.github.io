@@ -151,16 +151,16 @@ body{
 	}
 
 	#logo{
-		width: 50%;
-		height: 50%;
+		width: 35%;
+		height: 35%;
 
 		margin-left: 10%;
 	}
 
 	#sublogo{
-		font-size: 25px;
+		font-size: 18px;
 		margin-left: 5%;
-		margin-top: 5%;
+		margin-top: 10%;
 	}
 
 	#barra{
